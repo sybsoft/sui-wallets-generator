@@ -1,6 +1,7 @@
 # Sui Wallets Generator
 
 Скрипт генерирует sui-кошельки в заданном количестве и экспортирует их в Excel
+
 The script generates sui wallets in a given quantity and exports them to Excel
 
 ## Установка
